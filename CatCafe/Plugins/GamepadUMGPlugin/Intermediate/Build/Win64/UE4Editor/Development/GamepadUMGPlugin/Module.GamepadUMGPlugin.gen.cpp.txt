@@ -1,0 +1,8 @@
+C:/Users/jthig/Documents/GitHub/CatCafe/CatCafe/Plugins/GamepadUMGPlugin/Intermediate/Build/Win64/UE4Editor/Inc/GamepadUMGPlugin/GamepadCursorSettings.gen.cpp
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Users\jthig\Documents\GitHub\CatCafe\CatCafe\Plugins\GamepadUMGPlugin\Source\GamepadUMGPlugin/Public/GamepadCursorSettings.h
+C:\Users\jthig\Documents\GitHub\CatCafe\CatCafe\Plugins\GamepadUMGPlugin\Intermediate\Build\Win64\UE4Editor\Inc\GamepadUMGPlugin\GamepadCursorSettings.generated.h
+C:/Users/jthig/Documents/GitHub/CatCafe/CatCafe/Plugins/GamepadUMGPlugin/Intermediate/Build/Win64/UE4Editor/Inc/GamepadUMGPlugin/GamepadUMGPlugin.init.gen.cpp
+C:/Users/jthig/Documents/GitHub/CatCafe/CatCafe/Plugins/GamepadUMGPlugin/Intermediate/Build/Win64/UE4Editor/Inc/GamepadUMGPlugin/VirtualCursorFunctionLibrary.gen.cpp
+C:\Users\jthig\Documents\GitHub\CatCafe\CatCafe\Plugins\GamepadUMGPlugin\Source\GamepadUMGPlugin/Public/VirtualCursorFunctionLibrary.h
+C:\Users\jthig\Documents\GitHub\CatCafe\CatCafe\Plugins\GamepadUMGPlugin\Intermediate\Build\Win64\UE4Editor\Inc\GamepadUMGPlugin\VirtualCursorFunctionLibrary.generated.h
